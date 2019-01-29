@@ -28,7 +28,7 @@ Name:           thrift
 License:        Apache License v2.0
 Group:          Development
 Summary:        RPC and serialization framework
-Version:        0.9.3
+Version:        0.9.3-cloudera.1
 Release:        0
 URL:            http://thrift.apache.org
 Packager:       Thrift Developers <dev@thrift.apache.org>
@@ -235,4 +235,4 @@ umask 007
 
 %changelog
 * Wed Sept 25 2015 Thrift Dev <dev@thrift.apache.org>
-- Thrift 0.9.3 release.
+- Thrift 0.9.3-cloudera.1 release.

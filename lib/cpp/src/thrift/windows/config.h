@@ -60,7 +60,7 @@
 
 #pragma warning(disable : 4996) // Deprecated posix name.
 
-#define VERSION "0.9.3"
+#define VERSION "0.9.3-cloudera.1"
 #define HAVE_GETTIMEOFDAY 1
 #define HAVE_SYS_STAT_H 1
 

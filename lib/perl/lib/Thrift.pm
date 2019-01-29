@@ -17,7 +17,7 @@
 # under the License.
 #
 
-our $VERSION = '0.9.3';
+our $VERSION = '0.9.3-cloudera.1';
 
 require 5.6.0;
 use strict;

@@ -1,5 +1,10 @@
 Apache Thrift Changelog
 
+Thrift 0.9.3-cloudera.1
+--------------------------------------------------------------------------------
+## Bug
+    * [THRIFT-4506] - fix use of assert for correctness in Java SASL negotiation
+
 Thrift 0.9.3
 --------------------------------------------------------------------------------
 ## Bug

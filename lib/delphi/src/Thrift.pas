@@ -25,7 +25,7 @@ uses
   SysUtils, Thrift.Protocol;
 
 const
-  Version = '0.9.3';
+  Version = '0.9.3-cloudera.1';
 
 type
   TApplicationException = class( SysUtils.Exception )
